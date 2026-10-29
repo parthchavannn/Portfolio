@@ -2,7 +2,9 @@
 
 A scroll-driven portfolio that tells my career as a story: from Ratnagiri and MIT-WPU, through computer vision and a startup, to identity automation at Deloitte.
 
-Live site: coming soon on Vercel (`https://your-project.vercel.app`, placeholder until deployed)
+Live site: https://parthchavannn.github.io/Portfolio/
+
+Vercel: `https://your-project.vercel.app` (placeholder until deployed)
 
 ## Highlights
 
