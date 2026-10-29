@@ -4,8 +4,6 @@ A scroll-driven portfolio that tells my career as a story: from Ratnagiri and MI
 
 Live site: https://parthchavannn.github.io/Portfolio/
 
-Vercel: `https://your-project.vercel.app` (placeholder until deployed)
-
 ## Highlights
 
 - A single WebGL "identity core" (Three.js) that moves, morphs and changes colour from chapter to chapter, with a particle field, orbiting rings and a detection-box scan.
